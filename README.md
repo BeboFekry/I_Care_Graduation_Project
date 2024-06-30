@@ -16,29 +16,29 @@ AI NLP chatbot + Computer Vision models that mimic a doctor
 
 The project consists of 3 main modules:
 
-- Module 1
-An AI Natural Language Processing NLP based chatbot called "Caroline" talking to the patient and taking its disease symptoms, then diagnosing the disease and recommend making some tests as x-ray, MRI ... in addition, given information about the predicted disease as an overview, symptoms, and treatments.
+Module 1: 
+- An AI Natural Language Processing NLP based chatbot called "Caroline" talking to the patient and taking its disease symptoms, then diagnosing the disease and recommend making some tests as x-ray, MRI ... in addition, given information about the predicted disease as an overview, symptoms, and treatments.
 it can predict 30 diseases.
 examples: (Breast_Cancer, Influenza, Covid 19, Stroke, ...)
 
-- Module 2
-A sequence of 14 AI Computer Vision models for scanning medical imaging and tests it can scan (X-ray, MRI, CT, OCT, ECG, or Food image), detect the image type (Image Recognition), if it is medical imaging image, applying anatomical recognition, disease evaluation, disease diagnosis.
+Module 2: 
+- A sequence of 14 AI Computer Vision models for scanning medical imaging and tests it can scan (X-ray, MRI, CT, OCT, ECG, or Food image), detect the image type (Image Recognition), if it is medical imaging image, applying anatomical recognition, disease evaluation, disease diagnosis.
 It can predict 25 disease types.
 examples: (Bone Fracture, Brain Tumor, Covid 19, Breast Cancer, ...)
 
-It also can recognize 101 food types from images and shows the approximate number of calories per gram.
+- It also can recognize 101 food types from images and shows the approximate number of calories per gram.
 
-There is also a machine learning model for Electrocardiogram ECG scan predicts the heart diseases using the ensemble learning technique on the random forest algorithm.
+- There is also a machine learning model for Electrocardiogram ECG scan predicts the heart diseases using the ensemble learning technique on the random forest algorithm.
 
-- Module 3
-A mobile and web applications (native).
+Module 3: 
+- A mobile and web applications (native).
 Patients after applying the smart diagnosis, chatbot can orientate them to booking an appointment in a laboratory, clinic, or even to purchase the prescription medicines.
 
-The patient can search for clinics, Laboratories, or pharmacies each have its page, and filter them according to the nearest, cheapest, or according to its health insurance.
+- The patient can search for clinics, Laboratories, or pharmacies each have its page, and filter them according to the nearest, cheapest, or according to its health insurance.
 
-The doctors, pharmacists, and laboratory specialists can create accounts on the website and schedule patients' appointments.
+- The doctors, pharmacists, and laboratory specialists can create accounts on the website and schedule patients' appointments.
 
-The application will notify the patient to remind him for a doctor appointment or for its medication dose.
+- The application will notify the patient to remind him for a doctor appointment or for its medication dose.
 
 A prototyping run video link EN: https://www.linkedin.com/posts/abdallah-fekry_artificialintelliegence-ai-machinelearning-activity-7182621672565325824-u4Tx?utm_source=share&utm_medium=member_desktop
 
