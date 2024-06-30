@@ -22,13 +22,13 @@ it can predict 30 diseases.
 examples: (Breast_Cancer, Influenza, Covid 19, Stroke, ...)
 
 - Module 2
-A sequence of 20 AI Computer Vision models for scanning medical imaging and tests it can scan (X-ray, MRI, CT, OCT, ECG, or Food image), detect the image type (Image Recognition), if it is medical imaging image, applying anatomical recognition, disease evaluation, disease diagnosis.
+A sequence of 14 AI Computer Vision models for scanning medical imaging and tests it can scan (X-ray, MRI, CT, OCT, ECG, or Food image), detect the image type (Image Recognition), if it is medical imaging image, applying anatomical recognition, disease evaluation, disease diagnosis.
 It can predict 25 disease types.
 examples: (Bone Fracture, Brain Tumor, Covid 19, Breast Cancer, ...)
 
 It also can recognize 101 food types from images and shows the approximate number of calories per gram.
 
-There is also a ML model for Electrocardiogram ECG scan predicts the heart diseases.
+There is also a machine learning model for Electrocardiogram ECG scan predicts the heart diseases using the ensemble learning technique on the random forest algorithm.
 
 - Module 3
 A mobile and web applications (native).
