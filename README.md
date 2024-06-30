@@ -1,7 +1,7 @@
 # I-CARE
-## Smart Comprehensive Medical System
-### Easy Healthcare For Anyone Anytime
-(Graduation Project Source Code)
+**Smart Comprehensive Medical System**
+**Easy Healthcare For Anyone Anytime**
+(Graduation Project)
 
 
 The Smart Medical Diagnosis and Healthcare Application will empower patients to access intelligent medical diagnoses, book appointments, interact with doctors, and manage their healthcare needs seamlessly.
