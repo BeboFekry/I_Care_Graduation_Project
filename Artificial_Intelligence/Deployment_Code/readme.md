@@ -1,5 +1,5 @@
 # AI Deployment Code
-using Flask and Streamlit
+I have deployed the models using both Flask and Streamlit
 
 You can download the mobile app here: 
 - App Link: 
