@@ -1,6 +1,10 @@
 # AI Deployment Code
 using Flask and Streamlit
 
+- You can download the mobile app here: 
+
+- or you can try run on web here:
+
 Chatbot Link: https://carolinebot.streamlit.app/
 
 Medical Imaging Scan Link: https://icarescan2.streamlit.app/
